@@ -4,5 +4,4 @@ and another!!
 
 add a line that should have a space!!
 
-add something here that should cause a conflict
-
+this should resolve the conflict
